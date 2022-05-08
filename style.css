@@ -1,0 +1,10 @@
+BODY {
+    background: linear-gradient(pink 100%,purple 0%);
+}
+#water2 {
+    width: 80%;
+}
+#heu {
+    color: cyan;
+    font-size:70px;
+}
